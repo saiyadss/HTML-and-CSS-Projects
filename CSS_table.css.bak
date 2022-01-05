@@ -1,0 +1,23 @@
+
+table {
+	border: 2px solid silver;
+	}
+	
+td:hover {
+	background-color: green;
+	color: red;
+	}
+	
+tr, th {
+	background-color: grey;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	}
+	
+tr, td {
+	background-color: lightblue;
+	color: black;
+	text-align: left-side;
+	}
+	

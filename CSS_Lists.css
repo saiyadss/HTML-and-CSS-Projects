@@ -1,0 +1,8 @@
+
+ol {
+	list-style-type: counter-increment;
+	}
+	
+ul {
+	list-style-type: square;
+	}
