@@ -8,7 +8,7 @@
 	<b>This part is Bold,</b><i> I am in Italics,</i><u> and this is Underlined.</u>
 	
 	<div>
-	<img src="./HTML Documents/dog.jpg" alt=" A cute Dog ">
+	<img sc="./HTML Documents/dog.jpg" alt=" A cute Dog ">
 	</div>
 	
 </p>

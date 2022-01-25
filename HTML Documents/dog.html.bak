@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title> Animal Lovers.</title>
+	</head>
+	<p> " Animals are cute" </p>
+	<body>
+		<img> 
+	<a href = "dog.jpg"> Picture of a Dog </a>
+	</body>
+	<h1>
+	<h3>
+	<main>
+		<a href = "C:\Users\16046\Desktop\HTML Documents\Assignment.html"  > HOME </a>
+		<a href = "C:\Users\16046\Desktop\HTML Documents\dog.html"  > DOG Picture </a>
+		<a href = "C:\Users\16046\Desktop\HTML Documents\Dog_Video.html"  > DOG Video </a>
+
+	<footer> The contents are written by Saiyad </footer>
+</html>
