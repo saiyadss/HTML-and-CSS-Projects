@@ -7,7 +7,10 @@
 		
 	<b>This part is Bold,</b><i> I am in Italics,</i><u> and this is Underlined.</u>
 	
-	<img src="C:\Users\16046\Desktop\HTML Documents\dog.jpg" />
+	<div>
+	<img src="./HTML Documents/dog.jpg" alt=" A cute Dog ">
+	</div>
+	
 </p>
 
 <script src="Basic_JavaScript_1.js"> </script>
